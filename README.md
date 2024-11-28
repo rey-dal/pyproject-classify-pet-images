@@ -1,4 +1,3 @@
-# AIPND-revision
 AI Programming with Python Nanodegree program. 
 
 ### Programming Project
